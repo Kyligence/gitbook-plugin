@@ -1,6 +1,14 @@
 {
   "name": "gitbook-plugin-star",
   "version": "0.0.1",
+  "author": {
+    "name": "bingchao.lian",
+    "email": "bingchao.lian@kyligence.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kyligence/gitbook-plugin.git"
+  },
   "description": "GitBook plugin shows star at footer",
   "engines": {
     "gitbook": ">1.x.x"
