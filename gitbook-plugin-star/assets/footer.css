@@ -1,0 +1,24 @@
+/**
+ * Common Parts
+ */
+
+.cleanfloat::after{
+    display: block;
+    clear: both;
+    content:"";
+    visibility: hidden;
+    height: 0;
+}
+
+.star{
+    list-style:none;
+    float:left;
+    font-size:30px;
+    margin:5px;
+    color:#ccc;
+    cursor:pointer;
+}
+
+.hs,.cs{
+    color:#1375b7;
+}

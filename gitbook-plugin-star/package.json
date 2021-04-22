@@ -1,0 +1,8 @@
+{
+  "name": "gitbook-plugin-star",
+  "version": "0.0.1",
+  "description": "GitBook plugin shows star at footer",
+  "engines": {
+    "gitbook": ">1.x.x"
+  }
+}
